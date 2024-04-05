@@ -45,6 +45,13 @@
     display: flex;
     text-decoration: none;
     list-style: none;
+    align-items: center;
+    & > li {
+      border-radius: 8px;
+    }
+    & > li:hover {
+      background-color: #dfdfdf;
+    }
   }
   & > ul li,
   ul li a {
@@ -54,7 +61,7 @@
     cursor: pointer;
     text-decoration: none;
   }
-  & ul li p{
+  & ul li p {
     margin-left: 5px;
     font-size: 14px;
   }
