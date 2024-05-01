@@ -56,6 +56,7 @@ faq html content
             |
             <span>Evion 600</span>
         </h5>
+
         <h5>
             <b>COVID-19 Preventatives:</b>
             <span>N95 Masks</span>
@@ -64,3 +65,4 @@ faq html content
             |
             <span>Hand Gloves, Disinfectants, Thermometers & more!</span>
         </h5>
+
